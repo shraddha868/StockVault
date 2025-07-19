@@ -1,3 +1,9 @@
+# StockVault
+
+A modern stock trading platform that allows users to buy, sell, and track equities with real-time data and analytics. Inspired by Zerodha, it offers a seamless, intuitive interface for smart investing.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
